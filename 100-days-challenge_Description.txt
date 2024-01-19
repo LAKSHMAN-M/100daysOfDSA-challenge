@@ -1,0 +1,1642 @@
+Java Developer | 100-days DSA challenge | 90+ LeetCode
+Aspiring IT profession ♦️Looking for role on👉- Java Developer ♦ Java Programmer ♦ Web Development
+
+
+Day 0
+
+Hello Eveyone 👋,
+ 🚀Taking on the 100-Day DSA Challenge
+
+I'm enthusiastic to share that I'm embarking on a 100-day challenge to tackle data structures and algorithms (DSA) 🚀 problems on LeetCode.
+I gonna use Java as my programming Language to solve the leetcode problems.
+For the next 100 days, I'll be dedicating☕ myself to solving at least one DSA problem for 100 days. I'm will be start at every basic topics like operators, control statements, OOPS concepts. Later move on to advance topics like collection Framework, data Structures🚀, searching algorithms, sorting and more. Along with my journey, I'll be sharing each day my progress📈 and insights📊 on LinkedIn the day itself, by using the hashtag 
+>>>>> #100Days #DSA #100DaysOfDSA #100daysofcodechallenge #100DaysOfLeetcodeChallange #LeetCode
+
+Join with me lets do this🏳️ together!💥
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Day 01
+🚀 Day 01 - Embarking on a 100-Day DSA Journey!🤓
+
+🚀Hello, network!👋
+
+Today's Focus:👇
+
+Java Foundations:
+Introduction to Java
+Data Types
+Operators
+Control Statements
+Problem Solving in Action:
+
+CodingNinjas:
+🚀P1 : Find Character Case: https://www.codingninjas.com/studio/problems/find-character-case_58513
+🚀P2 : Data Type: https://www.codingninjas.com/studio/problems/data-type_8357232
+🚀P3 : Sum of Even-Odd: https://www.codingninjas.com/studio/problems/sum-of-even-odd_624650
+LeetCode:
+🚀P1 : Power of Four: https://leetcode.com/problems/power-of-four/description/
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA  #100DaysOfLeetcodeChallange #LeetCode
+
+	
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Day 02
+🚀 Day 02 - Embarking on a 100-Day DSA Journey!🤓
+
+🚀Hello, network!👋
+
+Today's Focus:👇
+
+Java Foundations:
+Functions
+method overring 
+method overloading
+basics of String classes
+
+CodingNinjas:
+
+🚀P1 : Prime Number Check: https://www.codingninjas.com/studio/problems/check-prime_624934
+
+LeetCode's POTD :
+
+🚀P1 : Maximizing My Score with String Splitting: https://leetcode.com/problems/maximum-score-after-splitting-a-string
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA  #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Day 03
+
+🚀 Day 03 - Embarking on a 100-Day DSA Journey!🤓
+
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+Functions📲
+method overring 
+method overloading
+basics of String classes
+Recusrion basics📲📲📲📲
+
+CodingNinjas:
+
+🚀P1 : Palindrome Number: https://www.codingninjas.com/studio/problems/palindrome-number_624662?leftPanelTabValue=SUBMISSION
+
+LeetCode :
+
+🚀P1 : Number of Steps to Reduce a Number to Zero: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/submissions/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA  #100DaysOfLeetcodeChallange #LeetCode
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 04
+
+
+🚀 Day 04 - Embarking on a 100-Day DSA Journey!🤓
+
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+
+Revision:🤓 Refreshing core Java concepts like data types, variables, operators, control flow, and more.
+Recursion Basics:🤓 Understanding how functions can call themselves, unlocking elegant problem-solving techniques.
+Basic Algorithms:🤓
+Two Sum: Finding a pair of numbers in an array that add up to a target value.
+Kadane's Algorithm:🤓 Finding the maximum subarray sum within an array.
+-------------------------------------------------------
+CodingNinjas:
+
+🚀P1 : Count Digits: Implementing logic to count the individual digits within a given number.
+problem link : https://www.codingninjas.com/studio/problems/count-digits_8416387?leftPanelTabValue=PROBLEM
+
+LeetCode :
+
+🚀P1 : Count Digits: Implementing logic to count the individual digits within a given number.
+Problem link : https://leetcode.com/problems/maximum-product-subarray/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA  #100DaysOfLeetcodeChallange #LeetCode
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 05
+🚀 Day 05 - Embarking on a 100-Day DSA Journey!🤓
+
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+trying to solve basic level and intermediate level problems based on till now learned topics
+
+CodingNinjas:	
+
+🚀P1 :Reverse an Array: 
+		https://www.codingninjas.com/studio/problems/reverse-an-array_8365444
+🚀P2 :	httpsHCF and LCM:
+		www.codingninjas.com/studio/problems/hcf-and-lcm_840448?leftPanelTabValue=SUBMISSION
+🚀P3 :	Check Armstrong:
+		https://www.codingninjas.com/studio/problems/check-armstrong_589
+🚀P4 : Print 1 to N:
+		https://www.codingninjas.com/studio/problems/print-1-to-n_628290
+
+LeetCode :
+
+🚀P1 :  Reverse Integer:
+		https://leetcode.com/problems/reverse-integer/description
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA  #100DaysOfLeetcodeChallange #LeetCode
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 06
+
+🚀 Day 06 - Embarking on a 100-Day DSA Journey!🤓
+
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+collection framework 
+basic problems
+
+CodingNinjas:	
+
+🚀P1 :	Count Frequency in a Range: 
+		https://www.codingninjas.com/studio/problems/count-frequency-in-a-range_8365446
+
+LeetCode :
+
+🚀P1 :Pascal's Triangle:
+		https://leetcode.com/problems/pascals-triangle/submissions
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA  #100DaysOfLeetcodeChallange #LeetCode
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 07
+
+
+🚀 Day 07 - Embarking on a 100-Day DSA Journey!🤓
+
+🚀Hello, network!👋
+
+Today's Focus is revision plus some basic problems on till done topics
+
+LeetCode :
+
+🚀P1 :Move Zeroes:
+
+		https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA  #100DaysOfLeetcodeChallange #LeetCode
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Day 08
+
+🚀 Day 08 - Embarking on a 100-Day DSA Journey!🤓
+
+🚀Hello, network!👋
+
+Today's Focus is revision plus some basic problems on till done topics.
+
+😓 I'm a little embarrassed to admit that I've been sticking to easy problems on LeetCode. It's made me lazy and comfortable, but starting tomorrow, I'm going to challenge myself by tackling at least one medium problem a day if possible. 🙂 
+
+LeetCode :
+
+🚀P1 :	Max Consecutive One:
+		leetcode.com/problems/max-consecutive-ones
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Day 09
+
+🚀 Day 09 - Embarking on a 100-Day DSA Journey!🤓
+
+🚀Hello, network!👋
+
+Today's Focus is revision plus some basic problems on till done topics.
+
+As I promised in the previous day, I will solve medium problems if possible from today onwards. I will reinforce sorting algorithms such as cyclic sort and attempt to solve one hard question.
+
+LeetCode :
+
+🚀P1 :  First Missing Positive: https://leetcode.com/problems/first-missing-positive/description/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Day 10
+🚀 Day 10 - Embarking on a 100-Day DSA Journey!🤓
+
+🚀Hello, network!👋
+
+Time has gone quickly. When I look back ten days, I realize I had no detailed way to learn DSA. But after searching through over 50+ websites and spending more than ten days exploring for the "Best DSA Roadmap," I finally found these best resources:
+Strivers A2Z DSA Course: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
+NeetCode.io : https://neetcode.io/roadmap
+CODEANDEBUG : https://whimsical.com/dsa-syllabus-codeandebug-2ERY7B6qco2zg5LdawHsLE
+
+
+Today's Focus is revision plus and :👇
+
+In hashing, separate chaining is a technique used to resolve collisions that occur when adding keys with the same hash index. It's employed in the internal implementation of HashMaps, along with operations like put(), get(), set(), remove(), size(), and contains(). While learning about HashMaps, I also gained some basics of single linked lists, which play a crucial role in separate chaining by managing collisions between new and existing keys that map to the same index.
+
+LeetCode :
+
+🚀P1 : Longest Substring Without Repeating Characters : 
+		https://leetcode.com/problems/longest-substring-without-repeating-characters/description
+
+Initially i opted for a brute force approach, which had a time complexity close to quadratic. However, after viewing others solution 
+their code clear and effective. I carefully analyzed their techniques step by step. Through this hands-on practice, I discovered the sliding window technique—an effective approach that yields output in linear time, O(n).
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 11
+🚀 Day 11 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is  :👇
+*Recursion Refresher: Solidifying the fundamental concepts of recursive problem-solving.
+*Recursive Sorting Techniques: Implementing merge sort, bubble sort, and insertion sort using recursion, exploring their time and space complexities.
+
+CodingNinjas:	
+
+🚀P1: Merge Sort: Link to CodingNinjas Merge Sort Problem: https://www.codingninjas.com/studio/problems/merge-sort_5846
+🚀P2: Bubble Sort: Link to CodingNinjas Bubble Sort Problem: https://www.codingninjas.com/studio/problems/bubble-sort_624380
+	
+
+LeetCode :
+
+🚀P1: Merge Sorted Array: Link to LeetCode Merge Sorted Array Problem: https://leetcode.com/problems/merge-sorted-array
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA  #100DaysOfLeetcodeChallange #LeetCode
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Day 12
+🚀 Day 12 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is  :👇
+
+Boyer moore Majority Voting Algorithm: This algorithms findout the majority element of the given array. It is must that the element in an array that occures more than n / 2 times.
+intiution : 
+1* Take two variables candidate and votes.
+2* lets take an element from the array and assigned to the variable called Candidate and set vote variable to 1
+3* compare the candidate value to next elements if matches then increment the vote variable 
+4* if not then decrement the vote variable
+5* if any chance vote gets zero then assign the next element form the array to the candidate variable 
+6* in the end candidate has some element which occures more than n/2 times
+
+
+Time Complexity : O(n) - linear time
+space Complexity: O(1) - constant
+
+LeetCode :
+
+🚀P1: Majority Element: Link to LeetCode Majority Element Problem: 
+		https://leetcode.com/problems/majority-element/description/
+
+Special Thanks: Kunal Kushwaha and StriversA2Z for their guidance.
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA  #100DaysOfLeetcodeChallange #LeetCode
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Day 13
+🚀 Day 13 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is about testing my problem solving ability👇. 
+It's Time to boost up. After solidifying my understanding of DSA fundamentals, I'm dedicating the next 3-5 days to test my problem-solving skills by tackling various array challenges.
+
+Some Basic Problems on Arrays:
+Coding Ninjas: 
+
+🚀P1 : Largest Element in the Array: 
+	https://www.codingninjas.com/studio/problems/largest-element-in-the-array-largest-element-in-the-array_5026279?leftPanelTabValue=SUBMISSION
+
+🚀P2 :  Sorted Check : 
+	https://www.codingninjas.com/studio/problems/ninja-and-the-sorted-check_6581957?leftPanelTabValue=SUBMISSION
+
+
+LeetCode 
+
+
+🚀P1 : Intersection of Two Arrays:
+	https://leetcode.com/problems/intersection-of-two-arrays
+
+🚀P2 : Assign Cookies:
+	https://leetcode.com/problems/assign-cookies/description
+
+Special Thanks: Kunal Kushwaha and StriversA2Z for their guidance.
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA  #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 14
+🚀 Day 14 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is about solving the problems.
+In the last couple of days I've covered some concepts. Learning is great, but putting the concepts into practice through real time coding challenges strengthens them like nothing else. Since finishing college at 4pm, i take some rest right then i dived into solving coding problems on leetcode.
+
+The following problems are done today.
+
+LeetCode 
+
+
+🚀P1 : (905)Sort Array By Parity I:
+		https://leetcode.com/problems/sort-array-by-parity/description/
+
+🚀P2 : (922)Sort Array By Parity II:
+		https://leetcode.com/problems/sort-array-by-parity-ii/submissions/
+
+Special Thanks: Kunal Kushwaha and StriversA2Z for their guidance.
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA  #100DaysOfLeetcodeChallange #LeetCode
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 15
+
+🚀 Day 15 - Embarking on a 100-Day DSA Journey!🤓
+
+🚀Hello, network!👋
+
+Today's Focus🤓 is about solving the problems.
+
+LeetCode :
+
+🚀Problem1️⃣: (1838) Frequency of the Most Frequent Element
+
+🔗Link: https://leetcode.com/problems/frequency-of-the-most-frequent-element/description
+
+Explanation:
+
+	Task: We need to return the maximum possible Frequency of an element after performing the k -operations.
+
+📌Intuition: 
+
+	The given is sorting at the initial stage and we are using the sliding window.
+
+🔺Reason for sorting the given Array: 
+
+	We are trying to match the element to larger element of the array. Because we cannot increase the element more than the larger element. However if we do that then condition gets violated.
+
+🔺Why sliding window?
+
+	We are looking for the elements(sub-array) that can match to the larger element upto the current element we are in. We are choosing the elements means finding subarrays that can be made equal within k-operations.
+
+ 🔸k-operations means by default they were given a value which can be used to make elements equal by incrementing the element with k times. Or we can say like this investing the k value to the array elements in order to make the highest frequency of the subarray.
+
+Coding Ninjas: 
+
+🚀Problem1️⃣: Highest / Lowest Frequency Elements:
+
+🔗Link: https://www.codingninjas.com/studio/problems/k-most-occurrent-numbers_625382?leftPanelTabValue=PROBLEM
+
+Special Thanks to  Neetcode #neetcode and StriversA2Z
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA
+
+#DSAChallenge
+
+#Java
+
+#CodingNinjas
+
+#LeetCode
+
+#LearningNeverStops
+
+#100Days
+
+#DSA #100DaysOfLeetcodeChallange
+
+#LeetCode
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 16
+🚀 Day 16 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+🔸Today's Focus is about solving the problems :👇
+Coding Ninjas : 
+🚀Problem1️⃣: https://www.codingninjas.com/studio/problems/ninja-and-the-second-order-elements_6581960?leftPanelTabValue=SUBMISSION
+
+📌Intuition : 
+	🔺Task: Given an array nums of size n need to return the second largest and second smallest element from that array.
+	🔺Steps to Findout the second largest and second smallest element :
+	1)Declare four variables namely lar, sLar, small and sSmall. 
+	2)Assign the value to the variable lar and slar to min_value and assign the value to the variable small and sSmall to max_value
+	3)Iterate through the array 
+		i. if the current element is larger than the lar variale then assign the slar to lar and lar to current element 
+		ii.else check the sLar element is less than the current num and current num is not equal to lar then assign the sLar to current num
+		iii. if the current element is smaller than the small variale then assign the sSmall to small and small to current element 
+		ii.else check the sSmall element is greater than the current num and current num is not equal to small then assign the current num to sSmall variable
+	4)after iterating through entire array we have the second largert element and second smallest element
+	5)end
+	We gonna with linear time[O(n)].
+
+LeetCode : 
+
+🚀Problem1️⃣:: https://leetcode.com/problems/squares-of-a-sorted-array
+📌Intuition : 
+	🔺Task: Given an array of nums which is in ascending order need to return the squares of each element in an array in ascending arder
+	
+🔺🔺Approach : Two Pointers 
+* Initially we are declaring the two variables called right which is lenght of an array and left which is 0 index
+* We are taking an empty array result of size n (which is original array length)
+* In order to stores the result elements in result array we are declaring another variable called index which is points to last index initially.
+* we are checking the left index element  with right index element by converting both with non-negative
+* if left element is less than right element that means we are storing right element by making it square into result array of index(index variable)
+* then decrement both the right and index value by 1
+* else storing the left element by making it square into result array of index(index variable)
+* then increment the left variable by 1 and decrement the index value by 1
+* repeat above four steps till left > right
+* return the result array
+* end.
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 17
+🚀 Day 17 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus solving problem:👇
+
+LeetCode : 
+
+🚀Problem 1️⃣: (15)3Sum:
+	Link : https://leetcode.com/problems/3sum/description/
+Statement :Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and 		  nums[i] + nums[j] + nums[k] == 0. 
+🔺🔺Intuition:
+	we are using two pointers.
+	Result does not contain duplicate sets so we need to focus on duplicates  to remove
+🪜Steps: 
+* Sort the given array which would take O(N*logn) time
+* Iterating thourgh the array and choosing the start element which is at index 0. Let's store in target
+* we are making the target negotiate 
+* by using two pointer we get the sum of two elements which would equal to target 
+* if any change duplicates occurs we just skip to next element 
+* if sum is equal to target we are adding the index at current elements to result List
+* this will repeat until the iteration gets over
+
+
+📈Time Complexity:
+O(N* log n) --> sorting the array
+O(N * N) --> two loops of size n
+overall O(N * N)
+
+📈Space Complexity:
+Constant[O(1)]
+
+
+🚀Problem 2️⃣: (118)Pascal's Triangle
+	Link: https://leetcode.com/problems/pascals-triangle/
+	
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+Day 18
+
+🚀Day 18 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is about solving leetcode problems :👇
+
+LeetCode :
+🚀Problem 1️⃣: (18) 4Sum:
+	Link: https://leetcode.com/problems/4sum/description/
+	Intuition: Same as 3Sum program. I have explained in detail. You check the Yesterday's post for 3Sum program >>>>https://www.linkedin.com/posts/lakshmanmidhyakula123_100daysofdsa-dsachallenge-java-activity-7149448389879881728-gh4h?utm_source=share&utm_medium=member_android
+	📈Time Complexity : O(N^3)
+ 	📈Space Complexity: O(no of Quadruplets) worst-case scenario O(n^2)
+
+🚀Problem 2️⃣: (189) Rotate Array :
+	Link: https://leetcode.com/problems/rotate-array/description/
+🔺🔺Intuition: 
+	Task: Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
+	I comeup with more than two approaches but i am going to explain the two best approaches.
+	Similarites in both Approaches:
+	* If the k is more than the given array length, we just modulo the k with array length then it would be easy to get the rotated array.
+	📈Time complexity : O(n)
+
+Approach 1:
+	* Declaring the two variables called i and origK and assign the values 0 and k respectively
+	* create an array of size n and name it as temp
+	* we are storing the values from length minus k (length - k ) to total length from original array to temp array 
+	* after the above step index of i points to k + 1 th element 
+	* then storing the 0 index to lenght - origk element of orignal array to temp array which starts at index i
+	* end.
+📈Time complexity  : O(n)
+📈Space Complexity : O(n)
+
+Approach 2: 
+	* Swapping at 0 th index to (lenght - k - 1 )th index elements of given array nums
+	* Swapping at (lenght - k - 1 )th index to end index elements of given array nums
+	* Swapping at 0 th index to end index elements of given array nums
+	* End.
+
+📈Time complexity  : O(3n) --->after removing less Dominating terms O(n)
+📈Space Complexity : O(1)
+
+
+
+Special Thanks to StriversA2Z
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Day 19
+🚀 Day 19 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is about solving Problems :👇
+
+Coding Ninjas:
+🚀Problem 1️⃣: Merge 2 Sorted Array 	
+	Link : https://www.codingninjas.com/studio/problems/sorted-array_6613259?leftPanelTabValue=PROBLEM
+🔺Intuition : 
+	Task : They have given two sorted arrays namely a and b. We need to return result as the list such that it contains the unique elements of both arrays
+	
+🤗Approach: 
+	Simple merge sort but need to handle the duplicates in both arrays thats all.
+
+What is MergeSort? 
+	MergeSort is a sorting algorithm which is perform operations based on divide and conqure. 
+In our case we have the arrays are already sorted need to merge thats all. However there might be duplicates in both arrays so remove and merge.
+
+🪜Steps:
+	*Iterate through both arrays simultaneously:
+	*Compare elements at current indices:
+	*If equal, move both indices forward (skipping duplicates).
+	*If different, add the smaller element to the result and move its index forward.
+	*Add remaining elements from either array:
+	*Handle any remaining duplicates in the result list.
+
+📈Time Complexity : O(m + n) 
+		 where m is size of an array a
+		       n is size of an array b
+📈Space Complexity : O(n) which is resultant list of size n 
+
+
+LeetCode :
+🚀Problem 1️⃣: (75)Sort Colors
+		Link : https://leetcode.com/problems/sort-colors/description/
+🔺Intuition: 
+	TASK: We need to sort the given array nums. After sorting the array, the elements are follows 0's , 1's and 2's.
+
+🤗Approach : 
+	We gonna with Three-pointer technique for efficient in-place sorting.
+Steps: 
+	* Initialize three pointers : low , high and replaceZero.
+	* Iterate Through the array:
+	  * If the element at the low is 2, then swap it with element at high, and decrement the high by 1
+	  * If the element at the low is 1, move the low to next element
+	  * If the element at the low is 0, then swap it with element at replceZero, and increment low and replaceZero by 1.
+	* When the low <= high stop the loop
+	* Return the ans.
+	
+📈Time Complexity: O(n) linear
+📈Space Complexity:  O(1) constant
+
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+Day 20
+🚀 Day 20 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is solving the problems in leetcode :👇
+
+LeetCode :
+
+🚀Problem 1️⃣ : Valid Parentheses(20)
+	Link : https://leetcode.com/problems/valid-parentheses/post-solution/?submissionId=1141434509
+🔺Intuition: 
+	Task: Given a String containing characters like (, ), [, ], { and }, determine the string is valid if the brackets are match with correspoing brackets.
+
+🤗Approach :
+	Using the Stack data Structure we do solve this problem.
+🤔Why Stack ? 
+	Stack is a data structure which is follows LIFO(Last in First out) structure. It is mainly used for navigating to previous and current pages, files, links, and etc.☺️ 
+
+Steps for solving 
+* Declare the Stack data Structure
+* Iterate through the string 
+* if any opening bracket encounter such as (, [ and { simply add to the stack 
+* if the current character in string is closing bracket such as ), ] and } and check with the top of stack whether it is match with correspoing bracket 
+* if match pop(remove) from the stack 
+* if not, return true
+* there might be a case if the string contain only closing brackets in that case return false 
+* another case to consider, if the string contains opening brackers only, in that case all the characters of string are in stack simply retrun false
+* End 
+
+📈Complexities: 
+📈Time Complexity: O(n) linear time
+📈Space Complexity: O(n) linear space
+
+Coding Ninjas: 
+
+🚀Problem 1️⃣: Valid Parentheses
+	Link : https://www.codingninjas.com/studio/problems/valid-parenthesis_795104?leftPanelTabValue=PROBLEM
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 21
+🚀Day 21 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is solving the problems in leetcode :👇
+
+LeetCode :
+
+🚀Problem 1️⃣ :  (2149) Rearrange Array Elements by Sign
+	Link : https://leetcode.com/problems/rearrange-array-elements-by-sign/
+
+🔺Intuition: 
+	Task: Given an array of nums, we need to rearrange them based on the following constraints:
+	* Every consecutive pair of integers have opposite signs.
+	* For all integers with the same sign, the order in which they were present in nums is preserved.
+	* The rearranged array begins with a positive integer.
+	* The length of an array nums is always even
+
+🤗Approach :
+	Using simple for loop we can able to solve this problem.
+	
+🤔Why For loop?
+	Using a for loop, we can through the array. The loop will continue until the end of the array reached. At iteration, we can access the current element and perform specific operations based on its value. 
+	In order to rearrange them. We gonna with for loop.
+	
+
+Steps for solving :
+* Declare and initialize two variables even = 0, and odd = 1
+* Declare a new array called res of size n
+* Iterate through the array nums if the loop encounters the current value is positive number then store at even index position in resultant array called res
+* after that increment the even variable by 2
+* if loop encounters current value is negative number then store value at odd index in resultant array called res
+* increment the odd value by 2
+* end
+
+📈Complexities: 
+📈Time Complexity: O(n) linear time
+📈Space Complexity: O(n) linear space🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 22
+🚀Day 22 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+Today's Focus is solving the problems in leetcode :👇
+
+LeetCode :
+
+🚀Problem 1️⃣ :  Majority Element II(229)
+	Link : https://leetcode.com/problems/majority-element-ii/
+📈Time Complexity: O(n) linear time
+📈Space Complexity: O(n + n) linear space🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+
+Coding ninjas :
+
+🚀Problem 1️⃣ :  Longest Subarray With Sum K
+	Link : https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399?leftPanelTabValue=PROBLEM
+📈Time Complexity: O(n) linear time
+📈Space Complexity: O(1) constant space
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Day 23
+🚀Day 23 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is solving the problems in leetcode and coding ninjas :👇
+
+LeetCode :
+
+🚀Problem 1️⃣ :  Guess Number higher or lower(374)
+Difficulty LEVEL: EASY
+	Link : https://leetcode.com/problems/guess-number-higher-or-lower/
+📈Time Complexity: O(logn)
+📈Space Complexity: O(1) - constant
+
+🚀Problem 2️⃣ :  First Bad Version(278)
+Difficulty LEVEL: EASY
+	Link : https://leetcode.com/problems/first-bad-version/description/
+
+📈Time Complexity: O(logn)
+📈Space Complexity: O(1) - constant
+
+Coding ninjas :
+
+🚀Problem 1️⃣ :  Quick sort
+	Link : https://www.codingninjas.com/studio/problems/quick-sort_5844?leftPanelTabValue=PROBLEM
+📈Time Complexity: O(n logn)
+📈Space Complexity: O(n) -- for recursive stack calls
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Day 24
+🚀Day 24 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is solving the problems in leetcode and coding ninjas :👇
+
+LeetCode's POTD (Problem Of The Day) :
+
+🚀Problem 1️⃣ :  
+Difficulty Level:  Moderate -- medium
+
+	Link : https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/?envType=daily-question&envId=2024-01-13
+
+Using Arrays :
+
+📈Time Complexity: O(n) -- Linear time
+📈Space Complexity: O(26) - constant --O(1)
+
+Using Hashing :
+
+📈Time Complexity: O(n)
+📈Space Complexity: unique characters of string 's' let's call -- O(m)
+
+
+
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 25
+
+🚀Day 25 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+📌📌Today's Focus is about learning new concept and solving the problems in leetcode :👇
+Topic Name : 
+* SubSets and SubSequence : 
+	Thanks to #kunalKushwaha for providing such a great videos on DSA. Kunal Kushwaha's videos are indeed a great resource for DSA concepts.
+	SubSet is a arranging or selecting the elements from a set in any order or in different ways. It is like permutations. I have a little bit knowledge on permutations, how do find permutations like that stuff. When i watch kunal kushwaha permutations videos, that helps me to understand very clearly about it. 
+
+while i was watching permutation video, My mind grasp one line "Never Forgot about basics". This single line have a depth meaning it helps to solve the 80% of problem and a vast majority of problems
+
+
+***Today's problem is not about permuations***
+
+Leetcode page is working for a while when i was doing the solution.. Is there any reason behind it. Let me know your answers in the comment section
+
+🔺LeetCode's 75 study plan :
+
+🚀Problem 1️⃣ :  is Subsequence (392)
+
+Difficulty Level:  Easy
+	🔗Link : https://leetcode.com/problems/is-subsequence/submissions/1146142134/?envType=study-plan-v2&envId=leetcode-75
+
+📈Time Complexity: O(n) -- Linear time
+📈Space Complexity: O(1) - constant
+
+**I follow Two persons for learning DSA with java one of them uses java and other uses c++. However thay teaching skill are indeed of DSA.
+their channel links can find below
+Kunal Kushwaha : 🔗https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+Strivers : 🔗https://www.youtube.com/@takeUforward/playlists
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Day 26
+🚀Day 26 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+📌📌Today's Focus is about learning new concept and solving the problems in leetcode :👇
+Topic Name : 
+* SubSets and SubSequence : 
+	Thanks to #kunalKushwaha for providing such a great videos on DSA. Kunal Kushwaha's videos are indeed a great resource for DSA concepts.
+	SubSet is a arranging or selecting the elements from a set in any order or in different ways. It is like permutations. I have a little bit knowledge on permutations, how do find permutations like that stuff. When i watch kunal kushwaha permutations videos, that helps me to understand very clearly about it. 
+
+while i was watching permutation video, My mind grasp one line "Never Forgot about basics". This single line have a depth meaning it helps to solve the 80% of problem and a vast majority of problems
+
+
+🔺LeetCode :
+
+🚀Problem 1️⃣ :  (17) Letter Combinations of a Phone Number
+Difficulty Level:  Medium
+	🔗Link : https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+
+📈Time Complexity: let's say the given digits length will be n then it would take O(3^n).
+📈Space Complexity: Near about O(3^n).
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 27
+🚀Day 27 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+📌📌Today's Focus is about solving the problems in leetcode :👇
+
+🔺LeetCode :
+
+🚀Problem 1️⃣ : (560) Subarray Sum Equals K
+Difficulty Level:  Medium
+	🔗Link : https://leetcode.com/problems/subarray-sum-equals-k/
+Complexities:
+For Brute Force solution: 
+📈Time Complexity: O(n^n)
+📈Space Complexity: O(1).
+
+For optimum solution: 
+📈Time Complexity: O(n)
+📈Space Complexity: Number of unique elments --> O(n).
+
+
+****Thanks to #takeuforward for providing such a valuable content..***
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 28
+🚀Day 28 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+📌📌Today's Focus is about solving the problems in leetcode :👇
+
+🔺LeetCode's POTD :
+
+🚀Problem 1️⃣ : (1207)Unique Number of Occurrences
+✌️Difficulty Level:  Easy
+	🔗Link : https://leetcode.com/problems/unique-number-of-occurrences/post-solution/?submissionId=1148473870
+
+
+Intuition
+
+1* First we gonna sort the given array which would be easy to count the no of unique occurences. 
+2* Right after that comparing the adjacent elements till not match mean time increasing the count.
+3* Then store the count in set data structure 
+4* The movement when the count occures two times with the same value, we stop iterating and return false.
+5* If we reach end of array then return true.
+
+🔺Approach
+Two Pointers
+
+Complexities:
+📈Time Complexity: O(n)
+📈Space Complexity: Number of unique count which is near about O(log n)
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Day 29
+🚀Day 29 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+📌📌Today's Focus is about solving the problems in leetcode :👇
+
+🔺LeetCode :
+
+🚀Problem 1️⃣ : (334)Increasing Triplet Subsequence
+✌️Difficulty Level:  Medium
+	🔗Link : https://leetcode.com/problems/unique-number-of-occurrences/post-solution/?submissionId=1148473870
+
+Complexities:
+📈Time Complexity: O(n)
+📈Space Complexity: O(1)
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 30
+🚀Day 30 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+📌📌Today's Focus is about solving the problems in leetcode :👇
+
+🔺LeetCode :
+
+🚀Problem 1️⃣ : (54)Spiral Matrix
+✌️Difficulty Level:  Medium
+	🔗Link : https://leetcode.com/problems/spiral-matrix/description/
+
+Complexities:
+📈Time Complexity: O(n*m) -- noof rows * noof columns
+📈Space Complexity: O(n*m) -- noof rows * noof columns
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 31
+🚀 Day 31 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 32
+🚀 Day 32 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 33
+🚀 Day 33 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 34
+🚀 Day 34 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 35
+🚀 Day 35 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 36
+🚀 Day 36 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 37
+🚀 Day 37 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 38
+🚀 Day 38 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 39
+🚀 Day 39 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 40
+🚀 Day 40 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 41
+🚀 Day 41 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 42
+🚀 Day 42 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 43
+🚀 Day 43 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 44
+🚀 Day 44 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 45
+🚀 Day 45 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 46
+🚀 Day 46 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 47
+🚀 Day 47 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 48
+🚀 Day 48 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 49
+🚀 Day 49 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 50
+🚀 Day 50 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 51
+🚀 Day 51 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 52
+🚀 Day 52 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 53
+🚀 Day 53 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 54
+🚀 Day 54 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 55
+🚀 Day 55 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 56
+🚀 Day 56 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 57
+🚀 Day 57 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 58
+🚀 Day 58 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 59
+🚀 Day 59 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 60
+🚀 Day 60 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 61
+🚀 Day 61 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 62
+🚀 Day 62 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 63
+🚀 Day 63 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 64
+🚀 Day 64 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 65
+🚀 Day 65 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 66
+🚀 Day 66 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 67
+🚀 Day 67 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 68
+🚀 Day 68 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 69
+🚀 Day 69 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 70
+🚀 Day 70 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 71
+🚀 Day 71 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 72
+🚀 Day 72 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 73
+🚀 Day 73 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 74
+🚀 Day 74 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 75
+🚀 Day 75 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 76
+🚀 Day 76 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 77
+🚀 Day 77 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 78
+🚀 Day 78 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 79
+🚀 Day 79 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 80
+🚀 Day 80 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 81
+🚀 Day 81 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 82
+🚀 Day 82 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 83
+🚀 Day 83 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 84
+🚀 Day 84 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 85
+🚀 Day 85 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 86
+🚀 Day 86 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 87
+🚀 Day 87 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 88
+🚀 Day 88 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 89
+🚀 Day 89 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 90
+🚀 Day 90 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 91
+🚀 Day 91 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 92
+🚀 Day 92 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 93
+🚀 Day 93 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 94
+🚀 Day 94 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 95
+🚀 Day 95 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 96
+🚀 Day 96 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 97
+🚀 Day 97 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 98
+🚀 Day 98 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 99
+🚀 Day 99 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+Day 100
+🚀 Day 100 - Embarking on a 100-Day DSA Journey!🤓
+🚀Hello, network!👋
+
+Today's Focus is revision :👇
+
+Java Foundations:
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Process finished with exit code 0
