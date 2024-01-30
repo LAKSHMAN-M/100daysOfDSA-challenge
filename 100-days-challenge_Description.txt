@@ -1066,7 +1066,15 @@ Day 30
 
 🔺LeetCode :
 
-🚀Problem 1️⃣ : (54)Spiral Matrix
+🚀Problem 1️⃣ : (229) Majority Element II
+✌️Difficulty Level:  Medium
+	🔗Link : https://leetcode.com/problems/majority-element-ii/description/
+
+Complexities:
+📈Time Complexity: O(n) -- Linear Time
+📈Space Complexity: O(2) -- constant
+
+🚀Problem 2️⃣ : (54)Spiral Matrix
 ✌️Difficulty Level:  Medium
 	🔗Link : https://leetcode.com/problems/spiral-matrix/description/
 
@@ -1074,97 +1082,421 @@ Complexities:
 📈Time Complexity: O(n*m) -- noof rows * noof columns
 📈Space Complexity: O(n*m) -- noof rows * noof columns
 
+Follow me :
+
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
 🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
 #100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops  #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
 
 -----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 Day 31
-🚀 Day 31 - Embarking on a 100-Day DSA Journey!🤓
+🚀Day 31 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode :
+🚀Problem 1️⃣ : (8) String to Integer (atoi)
+✌️Difficulty Level: Medium
+
+	🔗Link : https://leetcode.com/problems/string-to-integer-atoi/
+Complexities:
+
+📈Time Complexity: O(n) -- Linear Time
+
+📈Space Complexity: O(3) -- constant --> O(1)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
 -----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 Day 32
-🚀 Day 32 - Embarking on a 100-Day DSA Journey!🤓
+🚀Day 32 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode :
+🚀Problem 1️⃣ :  (50) Pow(x, n)
+✌️Difficulty Level: Medium
+
+	🔗Link : https://leetcode.com/problems/powx-n/submissions/1152818705/
+
+Complexities:
+
+📈Time Complexity: O(log n ) 
+
+📈Space Complexity: constant --> O(1)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 33
-🚀 Day 33 - Embarking on a 100-Day DSA Journey!🤓
+🚀Day 33 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode's POTD:
+🚀Problem 1️⃣ :  (645) Set Mismatch
+✌️Difficulty Level: Easy
+
+	🔗Link : https://leetcode.com/problems/set-mismatch/description/?envType=daily-question&envId=2024-01-22
+
+Complexities:
+
+📈Time Complexity: O(n) ---> Linear Time
+
+📈Space Complexity: constant --> O(1)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 34
-🚀 Day 34 - Embarking on a 100-Day DSA Journey!🤓
+🚀Day 34 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode :
+🚀Problem 1️⃣ : (48)Rotate Image
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/rotate-image/
+
+Complexities:
+
+📈Time Complexity: ~O(n*m)
+
+📈Space Complexity: constant --> O(1)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 35
-🚀 Day 35 - Embarking on a 100-Day DSA Journey!🤓
+🚀Day 35 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode :
+🚀Problem 1️⃣ : (56) Merge Intervals
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/merge-intervals/solutions/
+
+Complexities:
+
+📈Time Complexity: ~O( n * log n)
+
+📈Space Complexity: O(n)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 36
-🚀 Day 36 - Embarking on a 100-Day DSA Journey!🤓
+🚀Day 36 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode :
+🚀Problem 1️⃣ : (493) Reverse Pairs
+✌️Difficulty Level: Hard 
+
+	🔗Link : https://leetcode.com/problems/reverse-pairs/
+
+Complexities:
+
+📈Time Complexity: ~ O( n * log n)
+
+📈Space Complexity: O(n) 
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 37
-🚀 Day 37 - Embarking on a 100-Day DSA Journey!🤓
+🚀Day 37 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺Coding ninjas :
+🚀Problem 1️⃣ : 	Implement Lower Bound
+✌️Difficulty Level: Easy 
+
+	🔗Link : https://www.codingninjas.com/studio/problems/lower-bound_8165382?leftPanelTabValue=PROBLEM
+
+Complexities:
+
+📈Time Complexity: O(log n)
+
+📈Space Complexity: O(1) 
+
+🚀Problem 2️⃣ : 	Implement Upper Bound
+✌️Difficulty Level: Easy 
+
+	🔗Link : https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383?leftPanelTabValue=PROBLEM
+
+Complexities:
+
+📈Time Complexity: O(log n)
+
+📈Space Complexity: O(1) 
+
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : 	(34) Find First and Last Position of Element in Sorted Array
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1157321286/
+
+Complexities:
+
+📈Time Complexity: O(log n)
+
+📈Space Complexity: O(log n ) --- for Storing the recursive call in stack( storing the stack frames)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 38
-🚀 Day 38 - Embarking on a 100-Day DSA Journey!🤓
+
+
+🚀Day 38 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺Coding ninjas :
+🚀Problem 1️⃣ : 	Number of occurrences
+✌️Difficulty Level: Moderate(medium) 
+
+	🔗Link : https://www.codingninjas.com/studio/problems/occurrence-of-x-in-a-sorted-array_630456
+
+Complexities:
+
+📈Time Complexity: O(log n)
+
+📈Space Complexity: O(1) 
+
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : 	(33) Search in Rotated Sorted Array
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
+Complexities:
+
+📈Time Complexity: O(log n)
+
+📈Space Complexity: O(log n ) --- for Storing the recursive call in stack( storing the stack frames)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+
+
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 39
-🚀 Day 39 - Embarking on a 100-Day DSA Journey!🤓
+
+
+
+
+🚀Day 39 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺Coding ninjas :
+🚀Problem 1️⃣ : 	Find Minimum in Rotated Sorted Array
+✌️Difficulty Level: Moderate(medium) 
+
+	🔗Link : https://www.codingninjas.com/studio/problems/rotated-array_1093219?leftPanelTabValue=SUBMISSION
+
+Complexities:
+
+📈Time Complexity: O(log n)
+
+📈Space Complexity: O(1) 
+
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : 	(153) Find Minimum in Rotated Sorted Array
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+
+Complexities:
+
+📈Time Complexity: O(log n)
+
+📈Space Complexity: O(1)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode #neetcode
+
+
+
+
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 40
 🚀 Day 40 - Embarking on a 100-Day DSA Journey!🤓
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺Coding ninjas :
+🚀Problem 1️⃣ : 	Single Element in a Sorted Array
+
+✌️Difficulty Level: Moderate(medium) 
+
+	🔗Link : https://www.codingninjas.com/studio/problems/unique-element-in-sorted-array_1112654
+
+Complexities:
+
+📈Time Complexity: O(log n)
+
+📈Space Complexity: O(1) 
+
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : 	540. Single Element in a Sorted Array
+
+✌️Difficulty Level: Moderate(medium) 
+
+	🔗Link : https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1159933206/
+
+Complexities:
+
+📈Time Complexity: O(log n)
+
+📈Space Complexity: O(1) 
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode #neetcode
 -----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 Day 41
-🚀 Day 41 - Embarking on a 100-Day DSA Journey!🤓
+🚀Day 41 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : 	162. Find Peak Element
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/find-peak-element/description/
+
+Complexities:
+
+📈Time Complexity: O(log n)
+
+📈Space Complexity: O(1)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 42
 🚀 Day 42 - Embarking on a 100-Day DSA Journey!🤓
