@@ -1498,21 +1498,77 @@ LeetCode : https://leetcode.com/lakshman__m/
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
+
+
+
 Day 42
-🚀 Day 42 - Embarking on a 100-Day DSA Journey!🤓
+🚀Day 42 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : 	(875)Koko Eating Bananas
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/koko-eating-bananas/description/
+
+Complexities:
+
+📈Time Complexity: O(log n)
+
+📈Space Complexity: O(1)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 Day 43
-🚀 Day 43 - Embarking on a 100-Day DSA Journey!🤓
+🚀Day 43 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : 	(128) Longest Consecutive Sequence
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/longest-consecutive-sequence/solutions/
+
+Complexities:
+
+📈Time Complexity: O(n)
+
+📈Space Complexity: O(n)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 44
 🚀 Day 44 - Embarking on a 100-Day DSA Journey!🤓
