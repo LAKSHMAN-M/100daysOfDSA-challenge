@@ -1570,93 +1570,410 @@ LeetCode : https://leetcode.com/lakshman__m/
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 Day 44
-🚀 Day 44 - Embarking on a 100-Day DSA Journey!🤓
+🚀Day 44 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : 	(81) Search in Rotated Sorted Array II
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/1164015274/
+
+Complexities:
+
+📈Time Complexity: O(log n)
+
+📈Space Complexity: O(1)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
+
+
+
 Day 45
 🚀 Day 45 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ :  (1482) Minimum Number of Days to Make m Bouquets
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/1164994013/
+
+Complexities:
+
+📈Time Complexity: O(n log n)
+
+📈Space Complexity: O(1)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 Day 46
+
 🚀 Day 46 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : (1283) Find the Smallest Divisor Given a Threshold
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/submissions/1165583645/
+
+Complexities:
+
+📈Time Complexity: O(n log n)
+
+📈Space Complexity: O(1)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 47
+
+
 🚀 Day 47 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : (1011) Capacity To Ship Packages Within D Days
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+Complexities:
+
+📈Time Complexity: O(n log m)
+
+📈Space Complexity: O(1)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 48
 🚀 Day 48 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : (
+✌️Difficulty Level: Medium 
+
+	🔗Link : https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+Complexities:
+
+📈Time Complexity: O(n log n)
+
+📈Space Complexity: O(2n) == O(n)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 49
+
+
+
+
+
+
 🚀 Day 49 - Embarking on a 100-Day DSA Journey!🤓
+
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : (1704) Determine if String Halves Are Alike
+✌️Difficulty Level: Easy 
+
+	🔗Link : https://leetcode.com/problems/determine-if-string-halves-are-alike/description/
+Complexities:
+
+📈Time Complexity: O(n) -- Linear Time 
+
+📈Space Complexity: O(1) -- Constant
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 50
+
+
+
+
 🚀 Day 50 - Embarking on a 100-Day DSA Journey!🤓
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+Successfully completed half of the challenge... .
+I follow this rules for myself : --- "Never Give up" --- "consistency"
 
-Java Foundations:
+
+📌📌Today's Focus is about solving the problems in LeetCode :👇
+
+🔺LeetCode : 
+
+🚀Problem 1️⃣ :  (345) Reverse Vowels of a String
+✌️Difficulty Level: Easy 
+
+	🔗Link : https://leetcode.com/problems/reverse-vowels-of-a-string/
+Complexities:
+
+📈Time Complexity: O(n) -- Linear Time 
+
+📈Space Complexity: O(n) // worst case
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
+
+
+
 Day 51
 🚀 Day 51 - Embarking on a 100-Day DSA Journey!🤓
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ :  (1539) Kth Missing Positive Number.
+
+✌️Difficulty Level: Easy 
+
+	🔗Link : https://leetcode.com/problems/kth-missing-positive-number/submissions/1170796573/
+Complexities:
+
+📈Time Complexity: O(log 1000) -- logarithmic time-- consider as constant. Because it will take max of 7 steps.
+
+📈Space Complexity: O(1) -- constant
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 52
+
+
 🚀 Day 52 - Embarking on a 100-Day DSA Journey!🤓
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ :  (1768) Merge Strings Alternately
+
+✌️Difficulty Level: Easy 
+
+	🔗Link : https://leetcode.com/problems/merge-strings-alternately/description/
+Complexities:
+
+📈Time Complexity: O(m + n) -- length of word1 plus length of word2
+
+📈Space Complexity: O(m + n) -- length of word1 plus length of word2
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
+
 Day 53
 🚀 Day 53 - Embarking on a 100-Day DSA Journey!🤓
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ :  (410) Split Array Largest Sum
+
+✌️Difficulty Level: Hard 
+
+	🔗Link : https://leetcode.com/problems/split-array-largest-sum/
+Complexities:
+
+📈Time Complexity: O( n * log n )
+
+📈Space Complexity: O(1) -- constant
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
+
+
+
 Day 54
+
 🚀 Day 54 - Embarking on a 100-Day DSA Journey!🤓
 🚀Hello, network!👋
 
-Today's Focus is revision :👇
+📌📌Today's Focus is about solving the problems in LeetCode :👇
 
-Java Foundations:
+🔺LeetCode : 
+
+🚀Problem 1️⃣ : (4) Median of Two Sorted Arrays
+
+✌️Difficulty Level: Hard 
+
+	🔗Link : https://leetcode.com/problems/median-of-two-sorted-arrays/
+Complexities:
+
+📈Time Complexity: O(log (m + n)) == m - nums1 length and n - nums2 length
+
+📈Space Complexity: O(n)
+
+Follow me :
+GitHub : https://github.com/LAKSHMAN-M/100daysOfDSA-challenge
+LeetCode : https://leetcode.com/lakshman__m/
+
+🤓Stay tuned for daily updates as I document my progress and share insights along the way! ✌️
+#100DaysOfDSA #DSAChallenge #Java #CodingNinjas #LeetCode #LearningNeverStops #100Days #DSA #100DaysOfLeetcodeChallange #LeetCode
+
+
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Day 55
 🚀 Day 55 - Embarking on a 100-Day DSA Journey!🤓
